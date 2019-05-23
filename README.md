@@ -11,17 +11,17 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 ```
 Hardware Requirements
-• Processor: 2GHz or faster processor
-• RAM: 2GB(64bit)
-• Storage: 5GB of available hard disk space
-• Consistent internet connection having speed of 512Kbps at a bare minimum.
-• Other general hardwares such as a mouse and keyboard for inputs and a monitor for display.
+â€¢ Processor: 2GHz or faster processor
+â€¢ RAM: 2GB(64bit)
+â€¢ Storage: 5GB of available hard disk space
+â€¢ Consistent internet connection having speed of 512Kbps at a bare minimum.
+â€¢ Other general hardwares such as a mouse and keyboard for inputs and a monitor for display.
 ```
 ```
 Software Requirements
-• Operating system: Linux or Windows
-• Programming languages: Python
-• Anaconda (Open Source Python Distribution) link : https://www.anaconda.com/distribution/
+â€¢ Operating system: Linux or Windows
+â€¢ Programming languages: Python
+â€¢ Anaconda (Open Source Python Distribution) link : https://www.anaconda.com/distribution/
 ```
 
 ### Running
