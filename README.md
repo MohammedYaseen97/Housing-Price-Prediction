@@ -2,6 +2,8 @@
 
 We present various important features to use while predicting housing prices with good accuracy. While using features in a regression model some feature engineering is required for better prediction. Often a set of features (multiple regressions) or polynomial regression (applying a various set of powers in the features) is used for making better model fit. While in Neural Networks, solely the difference between the predicted and existing values determines the change in weights, hence determining the best fit.
 
+Goal : To compare the accuracy of prediction of house prices using XGBoost vs Structural Neural Networks and implement the better of the two in a website :)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
